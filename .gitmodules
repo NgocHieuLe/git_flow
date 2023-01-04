@@ -1,0 +1,4 @@
+[submodule "shared"]
+	path = shared
+	url = git@github.com:NgocHieuLe/git_submodule.git
+	branch = develop
